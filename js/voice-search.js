@@ -1,4 +1,4 @@
-
+//que bunos tus cursos
 const voiceSearch = document.querySelector(".voice-search");
 let microAceptado = false;
 
